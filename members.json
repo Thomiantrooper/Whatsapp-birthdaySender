@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "phone": "+1234567890",
+        "birthday": "2024-12-05"
+    },
+    {
+        "name": "Jane Smith",
+        "phone": "+9876543210",
+        "birthday": "2024-12-06"
+    }
+]
